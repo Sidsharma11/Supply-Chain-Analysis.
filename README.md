@@ -39,7 +39,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
         * MINX()
         * SUMMERIZE()
 
- # Business related terms
+ ## Business related terms
 * IF%
 * OT%
 * OTIF%
